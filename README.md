@@ -53,15 +53,6 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vim/vim-original.svg" width="40" height="40"/>
 </p>
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=yshhh17&layout=compact&theme=tokyonight&hide_border=true" 
-    height="170"
-  />
-</p>
-
 ---
 
 ## 📈 Contribution Activity
