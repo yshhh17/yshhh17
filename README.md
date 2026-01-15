@@ -1,6 +1,7 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=55&duration=1500&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&height=100&lines=Hey+%F0%9F%91%8B+I'm+Yash" alt="Typing SVG" />
+  <img src="https://capsule-render.vercel.app/api?type=transparent&text=Hey%20👋%20I'm%20Yash&fontSize=55&fontColor=58A6FF&height=120" alt="Hey I'm Yash" />
 </h1>
+
 
 <h3 align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=79C0FF&center=true&vCenter=true&width=800&lines=Full+Stack+Developer+%F0%9F%9A%80;Building+the+Future+of+Web;Open+Source+Enthusiast+%E2%9C%A8;Always+Learning%2C+Always+Growing+%F0%9F%8C%B1" alt="Typing SVG" />
@@ -8,12 +9,10 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=yshhh17&label=Profile%20Views&color=58A6FF&style=for-the-badge" alt="profile views" />
-  <img src="https://img.shields.io/github/followers/yshhh17?label=Followers&style=for-the-badge&color=58A6FF&logo=github" alt="followers" />
-  <img src="https://img.shields.io/badge/Focus-Full%20Stack-58A6FF?style=for-the-badge" alt="focus" />
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=&fontSize=0&animation=twinkling"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=footer&text=&fontSize=0&animation=twinkling"/>
 </p>
 
 ---
@@ -156,8 +155,4 @@ const yash = {
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling"/>
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Thanks+for+visiting! +%F0%9F%91%8B;Let's+build+something+amazing+together! +%F0%9F%9A%80;Happy+Coding!+%E2%9C%A8" alt="Footer" />
 </p>
