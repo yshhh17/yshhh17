@@ -140,9 +140,9 @@ const yash = {
   <a href="mailto:iamyashtiwari28@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
-  <!-- <a href="https://yourwebsite.com" target="_blank">
+  <a href="https://www.yshhh.me/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio"/>
-  </a> -->
+  </a>
 </p>
 
 ---
