@@ -43,6 +43,32 @@ const yash = {
 
 </details>
 
+<p align="center">
+  <a href="https://github.com/yshhh17">
+    
+<picture>
+      <source media="(prefers-color-scheme: dark)" 
+        srcset="https://github-readme-stats-eight-theta.vercel.app/api?username=yshhh17&show_icons=true&theme=default&include_all_commits=true&count_private=true">
+      <source media="(prefers-color-scheme: light)" 
+        srcset="https://github-readme-stats-eight-theta.vercel.app/api?username=yshhh17&show_icons=true&theme=default&include_all_commits=true&count_private=true">
+      <img height="180em"
+        src="https://github-readme-stats-eight-theta.vercel.app/api?username=yshhh17&show_icons=true&theme=default&include_all_commits=true&count_private=true" />
+    </picture>
+
+&nbsp;&nbsp;&nbsp;
+<div align="center">
+ <picture>
+      <source media="(prefers-color-scheme: dark)" 
+        srcset="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=yshhh17&layout=compact&langs_count=8&theme=default">
+      <source media="(prefers-color-scheme: light)" 
+        srcset="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=yshhh17&layout=compact&langs_count=8&theme=default">
+      <img height="180em"
+        src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=yshhh17&layout=compact&langs_count=8&theme=default" />
+    </picture>
+</div>
+  </a>
+</p>
+
 ---
 
 ## 🛠️ Tech Arsenal
@@ -127,6 +153,12 @@ const yash = {
 <p align="center">
   <img src="https://readme-jokes.vercel.app/api?theme=tokyonight&hideBorder" alt="Jokes Card" />
 </p>
+
+<div align="center">
+  <a href="https://git.io/streak-stats">
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yshhh17&" alt="anujrajincludemyself" /></p>
+  </a>
+</div>
 
 ---
 
