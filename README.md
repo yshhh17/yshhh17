@@ -11,12 +11,6 @@
   <img src="https://komarev.com/ghpvc/?username=yshhh17&label=Profile%20Views&color=58A6FF&style=for-the-badge" alt="profile views" />
 </p>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=footer&text=&fontSize=0&animation=twinkling"/>
-</p>
-
----
-
 ## 🎯 About Me
 
 ```typescript
@@ -174,10 +168,4 @@ const yash = {
   <a href="https://www.yshhh.me/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio"/>
   </a>
-</p>
-
----
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling"/>
 </p>
