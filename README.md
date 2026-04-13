@@ -8,27 +8,21 @@
 
 <table align="center">
   <tr>
-    <td width="50%">
+    <td width="55%" valign="top">
 
 ## 🎯 About Me
 
-```typescript
-const yash = {
-    location: "Building the Internet 🌐",
-    currentFocus: "Full-Stack Development & System Design",
-    learning: ["Advanced TypeScript", "Cloud Architecture", "DevOps"],
-    openTo: ["Collaboration", "Open Source", "Interesting Projects"],
-    askMeAbout: ["Web Dev", "APIs", "Database Design", "Debugging Magic"],
-    lifePhilosophy: "Ship fast, iterate faster 🚀"
-};
-```
+- 📍 **Location:** Building the Internet 🌐  
+- 🎯 **Current Focus:** Full-Stack Development & System Design  
+- 📚 **Learning:** Advanced TypeScript, Cloud Architecture, DevOps  
+- 🤝 **Open To:** Collaboration, Open Source, Interesting Projects  
+- 💬 **Ask Me About:** Web Dev, APIs, Database Design, Debugging Magic  
+- 🚀 **Life Philosophy:** Ship fast, iterate faster  
 
-<br>
+    </td>
 
-  </td>
-
-  <td width="50%" align="center" valign="middle">
-      <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="350" />
+    <td width="45%" align="center" valign="middle">
+      <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="320" />
     </td>
   </tr>
 </table>
