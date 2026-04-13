@@ -2,14 +2,13 @@
   <img src="https://capsule-render.vercel.app/api?type=transparent&text=Hey%20👋%20I'm%20Yash&fontSize=55&fontColor=58A6FF&height=120" alt="Hey I'm Yash" />
 </h1>
 
-
 <h3 align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=79C0FF&center=true&vCenter=true&width=800&lines=Full+Stack+Developer+%F0%9F%9A%80;Open+Source+Enthusiast+%E2%9C%A8;Always+Learning%2C+Always+Growing+%F0%9F%8C%B1" alt="Typing SVG" />
 </h3>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=yshhh17&label=Profile%20Views&color=58A6FF&style=for-the-badge" alt="profile views" />
-</p>
+<table align="center">
+  <tr>
+    <td width="50%">
 
 ## 🎯 About Me
 
@@ -23,6 +22,18 @@ const yash = {
     lifePhilosophy: "Ship fast, iterate faster 🚀"
 };
 ```
+
+<br>
+
+  </td>
+
+  <td width="50%" align="center" valign="middle">
+      <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="350" />
+    </td>
+  </tr>
+</table>
+
+
 
 <details>
 <summary>📊 More About My Journey</summary>
@@ -114,9 +125,6 @@ const yash = {
 </details>
 
 ---
-<p align="center">
-  <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="500" />
-</p>
 
 <!-- <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=yshhh17&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFA500" alt="Contribution Graph" />
