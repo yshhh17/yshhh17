@@ -114,7 +114,9 @@ const yash = {
 </details>
 
 ---
-
+<p align="center">
+  <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="500" />
+</p>
 
 <!-- <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=yshhh17&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFA500" alt="Contribution Graph" />
