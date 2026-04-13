@@ -115,11 +115,10 @@ const yash = {
 
 ---
 
-## 📈 Contribution Graph
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=yshhh17&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFA500" alt="Contribution Graph" />
-</p>
+</p> -->
 
 ---
 
